@@ -8,6 +8,8 @@ public class LaunchTest extends BaseClass{
         
         System.out.println("Page Title: "+driver.getTitle());
         Thread.sleep(10000);
+        
+        
         closeapp();
         
     }
