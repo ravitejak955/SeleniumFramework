@@ -2,12 +2,12 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2026-11-19T16:10:02 IST" name="Surefire suite" finished-at="2026-11-19T16:10:38 IST" duration-ms="36146">
+  <suite started-at="2026-11-20T09:53:13 IST" name="Surefire suite" finished-at="2026-11-20T09:53:40 IST" duration-ms="27229">
     <groups>
     </groups>
-    <test started-at="2026-11-19T16:10:02 IST" name="Surefire test" finished-at="2026-11-19T16:10:38 IST" duration-ms="36146">
+    <test started-at="2026-11-20T09:53:13 IST" name="Surefire test" finished-at="2026-11-20T09:53:40 IST" duration-ms="27229">
       <class name="com.selenium.LaunchTest">
-        <test-method signature="launchBrowser()[pri:0, instance:com.selenium.LaunchTest@448ff1a8]" started-at="2026-11-19T16:10:02 IST" name="launchBrowser" finished-at="2026-11-19T16:10:38 IST" duration-ms="36072" status="PASS">
+        <test-method signature="launchBrowser()[pri:0, instance:com.selenium.LaunchTest@448ff1a8]" started-at="2026-11-20T09:53:13 IST" name="launchBrowser" finished-at="2026-11-20T09:53:40 IST" duration-ms="27198" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- launchBrowser -->
